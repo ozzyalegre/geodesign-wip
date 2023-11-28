@@ -16,7 +16,7 @@
         <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.topology.min.js"></script>
        
     </head>
-    <body class="text-gray-900 font-sans antialiased">
+    <body class="text-gray-900 font-sans antialiased overflow-hidden">
         @yield('body')
         <script>
             VANTA.TOPOLOGY({
