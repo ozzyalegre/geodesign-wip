@@ -10,7 +10,7 @@
         </div>
       </div>
     </div>
-    <footer class="text-white absolute pl-10 pb-10 bottom-0 z-100">
+    <footer class="text-white absolute pl-10 mb-32 bottom-0 z-100">
         <a href="#" class="block">305.555.5555
         </a>
         <a href="#" class="block">george@geodesignmiami.com</i>
