@@ -12,9 +12,9 @@
       </div>
     </div>
     <footer class="text-white absolute pl-10 mb-24 bottom-0 z-100">
-        <a href="#" class="block">305.555.5555
+        <a href="tel:+13057759916" class="block underline">305.775.9916
         </a>
-        <a href="#" class="block">george@geodesignmiami.com</i>
+        <a href="mailto:george@geodesignmiami.com" class="block underline">george@geodesignmiami.com</i>
         </a>
         
     </footer>
