@@ -29,7 +29,7 @@
             scale: 1.00,
             scaleMobile: 1.00,
             color: 0x0,
-            backgroundColor: 0x9b1d1d
+            backgroundColor: 0x005858
             })
             </script>
     </body>

@@ -8,6 +8,7 @@
           <img class="block w-2/3 mx-auto" src="/img/GeoDesignW.png" alt="GeoDesign">
           {{-- <h1 class="text-6xl font-bold tracking-tight text-white sm:text-6xl">GeoDesign</h1>
           <p class="mt-6 text-xl leading-8 text-white">Building Beautiful, Progressive, and Eco-friendly Spaces.</p> --}}
+          {{-- <p class="text-sm italic text-white ">Integrating Form & Function <br> With The Natural Environment</p> --}}
         </div>
       </div>
     </div>
