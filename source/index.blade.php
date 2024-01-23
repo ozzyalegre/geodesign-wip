@@ -12,12 +12,20 @@
         </div>
       </div>
     </div>
-    <footer class="text-white absolute pl-10 mb-24 bottom-0 z-100">
-        <a href="tel:+13057759916" class="block underline">305.775.9916
-        </a>
-        <a href="mailto:george@geodesignmiami.com" class="block underline">george@geodesignmiami.com</i>
-        </a>
-        
+    <footer class="flex lg:justify-between lg:flex-row flex-col text-white absolute px-10 mb-16 bottom-0 z-100 w-full italic">
+        <div class="mb-3 md:mb-0">
+          George Sebastian Lopez, Principal <br>
+          FL Lic. #AR91739
+        </div>
+        <div class="hidden lg:inline">
+          Integrating Form &#38; Function with the Natural Environment since 2003.
+        </div>
+        <div>
+          <a href="mailto:george@geodesignmiami.com" class="block underline">George@GeoDesignMiami.com</i>
+          </a>
+          <a href="tel:+13057759916" class="block underline">(305)775-9916
+          </a>
+        </div>
     </footer>
   </div>
   
