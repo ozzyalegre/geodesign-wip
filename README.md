@@ -11,5 +11,5 @@ This is a simple "work-in-progress" landing page for a static site built using J
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-jigsaw-site.git
+   git clone https://github.com/ozzyalegre/your-jigsaw-site.git
    cd your-jigsaw-site
