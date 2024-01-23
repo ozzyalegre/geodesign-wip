@@ -1,5 +1,3 @@
-![Jigsaw logo](https://raw.githubusercontent.com/tighten/jigsaw/main/jigsaw-banner.png)
-
 # Work-in-Progress Landing Page
 
 This is a simple "work-in-progress" landing page for a static site built using Jigsaw. Jigsaw is a framework for building static sites and is particularly useful for creating efficient and fast websites.
